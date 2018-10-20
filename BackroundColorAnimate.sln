@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackroundColorAnimate.Android", "BackroundColorAnimate\BackroundColorAnimate.Android\BackroundColorAnimate.Android.csproj", "{47A82866-F905-4339-AD42-7B61666CFFE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackroundColorAnimate", "BackroundColorAnimate\BackroundColorAnimate\BackroundColorAnimate.csproj", "{69A4E5F0-D5F0-475D-8FC4-782F808AD0B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A82866-F905-4339-AD42-7B61666CFFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A82866-F905-4339-AD42-7B61666CFFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A82866-F905-4339-AD42-7B61666CFFE4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{47A82866-F905-4339-AD42-7B61666CFFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A82866-F905-4339-AD42-7B61666CFFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A82866-F905-4339-AD42-7B61666CFFE4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{69A4E5F0-D5F0-475D-8FC4-782F808AD0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A4E5F0-D5F0-475D-8FC4-782F808AD0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A4E5F0-D5F0-475D-8FC4-782F808AD0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A4E5F0-D5F0-475D-8FC4-782F808AD0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {192DE687-62AC-4F72-AB64-7A67F46685A6}
+	EndGlobalSection
+EndGlobal
